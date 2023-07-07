@@ -1,5 +1,5 @@
-![Screenshot_1688678194](https://github.com/KarimAbdelaziz96/flutter-bmi-app/assets/123884612/a5071a40-17a7-4002-b832-94d4079d56e4)
-
+![Screenshot_1688678194](https://github.com/KarimAbdelaziz96/flutter-bmi-app/assets/123884612/a5071a40-17a7-4002-b832-94d4079d56e4)=
+250*250
 # bmi_calculator
 
 A new Flutter project.
